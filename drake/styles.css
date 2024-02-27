@@ -1,0 +1,16 @@
+body{
+    background-image: url(image.com/b5bca4bd2e988e53a01655b2b12e5020.jpg);
+    background-size: 500px;
+    background-position: center;
+    color: burlywood;
+
+}
+h1{
+    color: pink;
+    font-weight: 800;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    grid-template-columns: 10m;
+}   
+h2{
+    
+}
